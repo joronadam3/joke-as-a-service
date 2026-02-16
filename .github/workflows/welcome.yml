@@ -14,18 +14,34 @@ jobs:
       pull-requests: write
     steps:
       - name: Welcome first-time contributors
-        uses: actions/first-interaction@v1
+        uses: actions/github-script@v7
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: |
-            👋 Welcome to Joke as a Service! Thanks for opening your first issue here!
+          script: |
+            const issueOrPr = context.payload.issue || context.payload.pull_request;
+            const creator = issueOrPr.user.login;
+            const isPR = !!context.payload.pull_request;
+            const repo = context.repo;
 
-            We appreciate your interest in the project. Please make sure to check out our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to get started.
+            // Check if this is the user's first interaction
+            const endpoint = isPR ? 'pulls' : 'issues';
+            const { data: items } = await github.rest[endpoint].listForRepo({
+              ...repo,
+              creator,
+              state: 'all',
+              per_page: 2,
+            });
 
-            A maintainer will review your issue soon. In the meantime, feel free to explore the repository and join the conversation!
-          pr-message: |
-            🎉 Welcome to Joke as a Service! Thanks for submitting your first pull request!
+            if (items.length > 1) {
+              console.log(`${creator} has previous ${endpoint}, skipping welcome.`);
+              return;
+            }
 
-            We're excited to have you contribute. Our automated validation workflow will run automatically to check your changes. Please keep an eye on the status checks for any feedback.
+            const message = isPR
+              ? `🎉 Welcome to Joke-as-a-Service! Thanks for submitting your first pull request!\n\nWe're excited to have you contribute. Our automated validation workflow will run automatically to check your changes. Please keep an eye on the status checks for any feedback.\n\nThanks for helping make the world a funnier place! 😄`
+              : `👋 Welcome to Joke-as-a-Service! Thanks for opening your first issue here!\n\nWe appreciate your interest in the project. Please make sure to check out our [Contributing Guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) to get started.\n\nA maintainer will review your issue soon. In the meantime, feel free to explore the repository and join the conversation!`;
 
-            Thanks for helping make the world a funnier place! 😄
+            await github.rest.issues.createComment({
+              ...repo,
+              issue_number: issueOrPr.number,
+              body: message,
+            });

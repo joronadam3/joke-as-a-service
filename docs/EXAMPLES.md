@@ -452,8 +452,10 @@ curl -sf https://jaas.example.com/joke?category=nonexistent | jq . || echo "Requ
 Or with full status checking:
 
 ```bash
-http_code=$(curl -s -o /tmp/jaas.json -w '%{http_code}' 'https://jaas.example.com/joke?category=programming') && \
-  [ "$http_code" -eq 200 ] && jq . /tmp/jaas.json || jq -r '.message' /tmp/jaas.json
+response=$(curl -s -w '\n%{http_code}' 'https://jaas.example.com/joke?category=programming')
+http_code=$(echo "$response" | tail -1)
+body=$(echo "$response" | sed '$d')
+[ "$http_code" -eq 200 ] && echo "$body" | jq . || echo "$body" | jq -r '.message'
 ```
 
 ---
