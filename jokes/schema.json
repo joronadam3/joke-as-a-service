@@ -1,0 +1,77 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "JaaS Joke",
+  "description": "Schema for Joke-as-a-Service joke entries",
+  "type": "object",
+  "required": ["id", "category", "type", "tags", "safe"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$",
+      "description": "UUID v4 identifier"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["programming", "security", "general", "dad", "pun", "dark", "workplace"],
+      "description": "Joke category"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["single", "twopart"],
+      "description": "Joke format type"
+    },
+    "joke": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The joke text (for single type jokes)"
+    },
+    "setup": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The setup line (for twopart jokes)"
+    },
+    "delivery": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The punchline (for twopart jokes)"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "description": "Tags for searching and filtering"
+    },
+    "safe": {
+      "type": "boolean",
+      "description": "Whether the joke is safe for work / family-friendly"
+    },
+    "contributed_by": {
+      "type": ["string", "null"],
+      "description": "GitHub username of the contributor, or null"
+    }
+  },
+  "if": {
+    "properties": {
+      "type": { "const": "single" }
+    }
+  },
+  "then": {
+    "required": ["joke"],
+    "not": {
+      "anyOf": [
+        { "required": ["setup"] },
+        { "required": ["delivery"] }
+      ]
+    }
+  },
+  "else": {
+    "required": ["setup", "delivery"],
+    "not": {
+      "required": ["joke"]
+    }
+  },
+  "additionalProperties": false
+}

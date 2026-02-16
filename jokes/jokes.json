@@ -1,0 +1,1903 @@
+[
+  {
+    "id": "0174fef5-023f-4c02-8e82-e86db8fafa14",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "binary",
+      "math"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "There are only 10 types of people in the world: those who understand binary and those who don't."
+  },
+  {
+    "id": "cc7b5471-0fbb-4740-925e-ddd40d1e1695",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "coding",
+      "bugs"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why do programmers prefer dark mode?",
+    "delivery": "Because light attracts bugs."
+  },
+  {
+    "id": "d98fa19a-d159-4084-8caf-b0eb331686ef",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "sql",
+      "database"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "A SQL query walks into a bar, sees two tables, and asks... 'Can I JOIN you?'"
+  },
+  {
+    "id": "543c56db-7135-416f-899f-850c74948d69",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "java",
+      "csharp"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why do Java developers wear glasses?",
+    "delivery": "Because they can't C#."
+  },
+  {
+    "id": "e599e120-49ea-4e3a-ba87-74adaff7fea1",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "boolean",
+      "logic"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "!false — it's funny because it's true."
+  },
+  {
+    "id": "d228a92c-15f2-4b05-9e32-e57f930ea83d",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "boolean",
+      "bits"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's the best thing about a Boolean?",
+    "delivery": "Even if you're wrong, you're only off by a bit."
+  },
+  {
+    "id": "2ac1dd90-179a-4daa-83f3-c02395e86ae3",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "logic",
+      "conditional"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "A programmer's wife tells him: 'Go to the store and get a loaf of bread. If they have eggs, get a dozen.' He comes home with 12 loaves of bread."
+  },
+  {
+    "id": "58303507-c4ab-49e1-9839-24bf2832d8e4",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "cache",
+      "money"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the developer go broke?",
+    "delivery": "Because he used up all his cache."
+  },
+  {
+    "id": "12e09334-3dca-4682-ac26-b5408f67eb74",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "recursion",
+      "meta"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "To understand recursion, you must first understand recursion."
+  },
+  {
+    "id": "15282525-6b86-424e-9c1d-a9a488f7b9a3",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "python",
+      "comparison"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why do Python programmers have low self-esteem?",
+    "delivery": "They're constantly comparing themselves to others."
+  },
+  {
+    "id": "f2d0c639-07d1-4867-81eb-bf98fae81622",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "networking",
+      "udp"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'd tell you a UDP joke, but you might not get it."
+  },
+  {
+    "id": "b97cba60-8954-4954-8ce4-4b13c2f99a29",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "finland",
+      "wordplay"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a programmer from Finland?",
+    "delivery": "Nerdic."
+  },
+  {
+    "id": "a6e5a0ee-7517-4cfc-a874-a51105622263",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "networking",
+      "tcp"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The best thing about TCP jokes is that if you don't get them, I'll keep repeating them until you do."
+  },
+  {
+    "id": "12fa8bb5-0f97-4370-aa9b-0fbbd685eefe",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "hardware",
+      "classic"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "How many programmers does it take to change a light bulb?",
+    "delivery": "None. That's a hardware problem."
+  },
+  {
+    "id": "a46d78f2-178b-4d80-b970-a3670aa8b2a5",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "recursion"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "In order to understand recursion you must first understand recursion."
+  },
+  {
+    "id": "782cc2cc-4a84-449a-bc30-5b337a7bf1d1",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "coding",
+      "bar"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What is a programmer's favorite hangout place?",
+    "delivery": "Foo Bar."
+  },
+  {
+    "id": "154ac328-8f58-4d29-83ac-ca3955a75d40",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "ascii",
+      "encoding"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "ASCII stupid question, get a stupid ANSI."
+  },
+  {
+    "id": "ac6cd6a1-c43f-4aaa-9ffe-34d4f9aeba32",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "arrays",
+      "raise"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the programmer quit his job?",
+    "delivery": "Because he didn't get arrays."
+  },
+  {
+    "id": "634b1a04-af66-48a8-b4fd-24f0e048ae3a",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "networking",
+      "home"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "There's no place like 127.0.0.1."
+  },
+  {
+    "id": "84138203-ccd2-47ac-a48e-d14f9e5ca495",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "concurrency",
+      "cars"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's a programmer's least favorite type of car?",
+    "delivery": "A race condition."
+  },
+  {
+    "id": "dcbecc11-5975-4460-a586-f106b5077b53",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "seo",
+      "web"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "An SEO expert walks into a bar, bars, pub, tavern, public house, Irish pub, drinks, beer, alcohol."
+  },
+  {
+    "id": "88814bcd-5c15-4e36-8a73-4407760b087c",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "javascript",
+      "node",
+      "express"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why was the JavaScript developer sad?",
+    "delivery": "Because he didn't Node how to Express himself."
+  },
+  {
+    "id": "bdaf46b1-765a-4a9d-bef8-fa48b41c149f",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "random",
+      "math"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The generation of random numbers is too important to be left to chance."
+  },
+  {
+    "id": "18c8743f-4285-4dfd-a443-fc6999c13eb3",
+    "category": "programming",
+    "type": "twopart",
+    "tags": [
+      "functions",
+      "arguments"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the functions stop calling each other?",
+    "delivery": "Because they got too many arguments."
+  },
+  {
+    "id": "31c52791-29cd-4ee7-8509-4310658b469c",
+    "category": "programming",
+    "type": "single",
+    "tags": [
+      "comments",
+      "debugging"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "// This code works. I have no idea why."
+  },
+  {
+    "id": "58e5f622-9690-4762-86b4-794c3bdee074",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "firewall",
+      "trust"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the security analyst break up with the firewall?",
+    "delivery": "Too many trust issues."
+  },
+  {
+    "id": "c7546d0c-767b-41f9-bbdf-64f2c123fe0d",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "passwords",
+      "math"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My password is the last 8 digits of pi."
+  },
+  {
+    "id": "24710e64-44ba-4809-8dab-28eb867efcac",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "phishing",
+      "gardening"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a hacker who loves gardening?",
+    "delivery": "A phishing enthusiast with a green thumb — they're great at social seeding."
+  },
+  {
+    "id": "456c2acc-6ca6-40f6-90a8-16bfd53b2ad3",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "iot",
+      "security"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The S in IoT stands for Security."
+  },
+  {
+    "id": "80c0dd86-1b7a-4278-8c3d-22d87ad5e98d",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "pentesting",
+      "privileges"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the pentester bring a ladder to work?",
+    "delivery": "To escalate privileges."
+  },
+  {
+    "id": "8f4eda89-3a57-4a01-8224-c5bb86fb92de",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "passwords",
+      "clever"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I changed my password to 'incorrect' so when I forget it, the computer tells me 'Your password is incorrect.'"
+  },
+  {
+    "id": "0ef1a441-2ed2-41db-917e-65a85bf17c4c",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "phishing",
+      "seasons"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's a hacker's favorite season?",
+    "delivery": "Phishing season."
+  },
+  {
+    "id": "e51a57bb-e014-4242-9da8-6d5440a91276",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "hacking",
+      "corporate"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "There are two types of companies: those that have been hacked, and those that don't know they've been hacked."
+  },
+  {
+    "id": "37df9dfd-8c4a-47a9-999d-9b554b9c1568",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "atoms",
+      "verification"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why don't security experts trust atoms?",
+    "delivery": "Because they make up everything, and you can never verify their identity."
+  },
+  {
+    "id": "cfd2f139-0792-4ec8-b764-e1f369509615",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "injection",
+      "poetry"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Roses are red, violets are blue, unexpected '{' on line 32."
+  },
+  {
+    "id": "510da77a-e363-4753-abd7-494aa2752f98",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "audit",
+      "vulnerabilities"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did the security auditor say to the developer?",
+    "delivery": "Your code has more holes than Swiss cheese."
+  },
+  {
+    "id": "c7cd9519-6559-457f-8912-421afc8e757e",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "passwords",
+      "handwriting"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I put my password on a sticky note. Don't worry, it's encrypted — nobody can read my handwriting."
+  },
+  {
+    "id": "d1b9b48d-d24b-41e4-8d97-be3e04240546",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "hacking",
+      "crosssite"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the hacker cross the road?",
+    "delivery": "To get to the other site."
+  },
+  {
+    "id": "185ceb8d-af9e-4ffa-a407-afacafd82341",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "passwords",
+      "sarcasm"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Security tip: Never use 'password' as your password. Use 'password1' — it has a number so it's more secure."
+  },
+  {
+    "id": "fd67a771-6d59-47c8-9b67-dcea131ba51e",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "halloween",
+      "zeroday"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do cybersecurity experts do on Halloween?",
+    "delivery": "They go trick-or-treating for zero-days."
+  },
+  {
+    "id": "66185354-bd30-46f2-bd4a-43cbeac91912",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "wifi",
+      "passwords"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My Wi-Fi password is on the fridge. Good luck getting in — it weighs 300 pounds."
+  },
+  {
+    "id": "25279425-42cd-4be8-9c03-5335056d3211",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "malware",
+      "virus",
+      "worm"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's the difference between a virus and a worm?",
+    "delivery": "A worm doesn't need you to click on it — it's self-motivated."
+  },
+  {
+    "id": "b857edb2-ddeb-4432-a0ef-6e6a7044388a",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "testing",
+      "production"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I don't always test my code, but when I do, I do it in production. Stay vulnerable, my friends."
+  },
+  {
+    "id": "e7c1c711-f480-4244-89e8-266f9d0a9448",
+    "category": "security",
+    "type": "twopart",
+    "tags": [
+      "sql",
+      "injection"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the SQL injection attack fail?",
+    "delivery": "The developer actually used parameterized queries. Shocking, I know."
+  },
+  {
+    "id": "21959372-f16e-486d-b786-b3fe24d1f056",
+    "category": "security",
+    "type": "single",
+    "tags": [
+      "updates",
+      "fightclub"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The first rule of Cybersecurity Club is: you don't talk about Cybersecurity Club. The second rule is: UPDATE YOUR SOFTWARE."
+  },
+  {
+    "id": "e58400ad-c9b2-4847-968b-a2ffada46c89",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "eyebrows",
+      "surprise"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I told my wife she was drawing her eyebrows too high. She looked surprised."
+  },
+  {
+    "id": "6d11bb7c-16a6-45c2-ae68-ac2e0e774e84",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "food",
+      "wordplay"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a fake noodle?",
+    "delivery": "An impasta."
+  },
+  {
+    "id": "7c58a7e6-26cf-4c70-981b-49f6512f5d36",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "books",
+      "gravity"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down."
+  },
+  {
+    "id": "9a5f5e31-f0a8-41da-b4a4-d5345808a61b",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "ocean",
+      "beach"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did the ocean say to the beach?",
+    "delivery": "Nothing, it just waved."
+  },
+  {
+    "id": "9820c73e-47e1-404a-b141-f2971f85c64b",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "facial-hair",
+      "wordplay"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I used to hate facial hair, but then it grew on me."
+  },
+  {
+    "id": "b09f3b08-84b5-481c-8f7c-6aac319cfc5e",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "science",
+      "atoms"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why don't scientists trust atoms?",
+    "delivery": "Because they make up everything."
+  },
+  {
+    "id": "0beed946-1c2d-4e60-860f-05be0474675d",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "math",
+      "geometry"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Parallel lines have so much in common. It's a shame they'll never meet."
+  },
+  {
+    "id": "58fc1005-98bc-4f2a-91d7-8a66d6a987aa",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "animals",
+      "bears"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a bear with no teeth?",
+    "delivery": "A gummy bear."
+  },
+  {
+    "id": "5ac7b053-945f-4d4e-89a0-426df5002c29",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "computers",
+      "ads"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I told my computer I needed a break, and now it won't stop sending me Kit-Kat ads."
+  },
+  {
+    "id": "10f606fe-6c92-49ff-bed5-376629dca141",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "dinosaurs",
+      "bathroom"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why can't you hear a pterodactyl going to the bathroom?",
+    "delivery": "Because the 'p' is silent."
+  },
+  {
+    "id": "119a36be-635c-4980-ab3e-aa7a4c9d2c0e",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "food",
+      "diet"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm on a seafood diet. I see food and I eat it."
+  },
+  {
+    "id": "a60e168e-0789-4837-993d-006c87b367c5",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "dinosaurs",
+      "sleep"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a sleeping dinosaur?",
+    "delivery": "A dino-snore."
+  },
+  {
+    "id": "f9efd42d-2543-4b86-959b-965eb64bc85c",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "sushi",
+      "food"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I would avoid the sushi if I were you. It's a little fishy."
+  },
+  {
+    "id": "e3cd2917-0fe5-4eec-9d2f-ad66c5733698",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "walls",
+      "classic"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did one wall say to the other wall?",
+    "delivery": "I'll meet you at the corner."
+  },
+  {
+    "id": "a7408a4c-1587-435b-8553-03ea470b4106",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "music",
+      "piano"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I used to play piano by ear, but now I use my hands."
+  },
+  {
+    "id": "9c542d0e-3e04-475c-b42b-4832096b1e61",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "math",
+      "books"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the math book look so sad?",
+    "delivery": "Because it had too many problems."
+  },
+  {
+    "id": "8a6d1c96-3020-4e9d-a8bf-59b7109f88d4",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "geography",
+      "wordplay"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "A plateau is the highest form of flattery."
+  },
+  {
+    "id": "4b39f92b-dc9c-4bbe-84c4-8719156eae6c",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "factory",
+      "wordplay"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a factory that makes okay products?",
+    "delivery": "A satisfactory."
+  },
+  {
+    "id": "2af0b358-3065-4499-ac91-2db1fd583696",
+    "category": "general",
+    "type": "single",
+    "tags": [
+      "sleep",
+      "talent"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm so good at sleeping, I can do it with my eyes closed."
+  },
+  {
+    "id": "1d4d68f6-dbbb-4783-8d9d-d141ee3e2e68",
+    "category": "general",
+    "type": "twopart",
+    "tags": [
+      "scarecrow",
+      "farming"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the scarecrow win an award?",
+    "delivery": "Because he was outstanding in his field."
+  },
+  {
+    "id": "38ceafa4-fc5c-43df-8416-3c722ad71345",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "calendar",
+      "time"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "I'm afraid for the calendar.",
+    "delivery": "Its days are numbered."
+  },
+  {
+    "id": "cb3a3d36-dff4-4540-aa06-cfb28c194c66",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "fish",
+      "spelling"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a fish without eyes?",
+    "delivery": "A fsh."
+  },
+  {
+    "id": "89aade3c-aaff-44a7-9bf3-21b3616523fc",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "alphabet",
+      "letters"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I only know 25 letters of the alphabet. I don't know y."
+  },
+  {
+    "id": "b30ddcd6-a1ac-43e6-a19c-0e9784e1058e",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "bicycle",
+      "tired"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why couldn't the bicycle stand up by itself?",
+    "delivery": "It was two tired."
+  },
+  {
+    "id": "ae1a1a76-60ee-4272-aef8-f486cc555ba4",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "banking",
+      "interest"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I used to be a banker, but I lost interest."
+  },
+  {
+    "id": "b4c3899d-b9c9-4fcb-8a60-14828e182019",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "janitor",
+      "surprise"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did the janitor say when he jumped out of the closet?",
+    "delivery": "Supplies!"
+  },
+  {
+    "id": "5d0f67cc-6fef-4c5d-af47-1bfa8a62126d",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "space",
+      "astronaut"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Did you hear about the claustrophobic astronaut? He just needed a little space."
+  },
+  {
+    "id": "0f143a8b-9936-44ea-bfb2-ea14d968efa6",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "eggs",
+      "cracking"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why don't eggs tell jokes?",
+    "delivery": "They'd crack each other up."
+  },
+  {
+    "id": "3e3c10f0-c824-4171-9831-947de36d7d1a",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "body",
+      "nose"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "What do you call someone with no body and no nose? Nobody knows."
+  },
+  {
+    "id": "bdae9cfe-e89e-4521-97e7-09cf2a782c6f",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "grape",
+      "wine"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did the grape say when it got stepped on?",
+    "delivery": "Nothing, it just let out a little wine."
+  },
+  {
+    "id": "ec46347c-9201-49e9-8435-5c92d8ba6427",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "submarines",
+      "books"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm reading a book about submarines. It's really deep."
+  },
+  {
+    "id": "438eff28-1402-45dd-8ea3-a1050d942ada",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "golf",
+      "pants"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the golfer bring two pairs of pants?",
+    "delivery": "In case he got a hole in one."
+  },
+  {
+    "id": "5f803c8a-92a6-42e8-abd0-724fa6b07df8",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "dogs",
+      "magic"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "What do you call a dog that does magic tricks? A Labracadabrador."
+  },
+  {
+    "id": "69d9ad68-65f9-4802-a33d-f6ae336f8828",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "dogs",
+      "math"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "I asked my dog what's two minus two.",
+    "delivery": "He said nothing."
+  },
+  {
+    "id": "1f5364dd-8f48-44aa-8339-aca9e173f072",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "construction",
+      "building"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I've got a great joke about construction, but I'm still working on it."
+  },
+  {
+    "id": "93ce521f-5217-414f-80fc-ff7b7306d56c",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "nose",
+      "measurement"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why can't a nose be 12 inches long?",
+    "delivery": "Because then it would be a foot."
+  },
+  {
+    "id": "d653f7cc-ffee-407f-8f49-37171771a632",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "paper",
+      "terrible"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Want to hear a joke about paper? Never mind, it's tearable."
+  },
+  {
+    "id": "004e4467-d491-4e99-bd4f-9960b91d2b28",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "watches",
+      "time"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a belt made of watches?",
+    "delivery": "A waist of time."
+  },
+  {
+    "id": "a61a89c6-2331-4f79-bd46-1bbc4525cd35",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "velcro",
+      "shopping"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I wouldn't buy anything with velcro. It's a total rip-off."
+  },
+  {
+    "id": "afc32751-6b9c-454f-8cec-19d549b59eab",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "coffee",
+      "crime"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the coffee file a police report?",
+    "delivery": "It got mugged."
+  },
+  {
+    "id": "55d62702-3b17-4d3f-a2fd-2fe90b8f9a89",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "math",
+      "decimals"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I used to hate math, but then I realized decimals have a point."
+  },
+  {
+    "id": "6a506a60-6c8d-413c-8626-a677ab9a58a4",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "kitchen",
+      "tools"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a can opener that doesn't work?",
+    "delivery": "A can't opener."
+  },
+  {
+    "id": "97ba4c96-78c3-4011-bf96-70111d3207cc",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "cars",
+      "addiction"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm addicted to brake fluid, but I can stop whenever I want."
+  },
+  {
+    "id": "a185af97-13a6-4c33-9742-52ea9f7657ed",
+    "category": "dad",
+    "type": "twopart",
+    "tags": [
+      "snowman",
+      "fitness"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a snowman with a six-pack?",
+    "delivery": "An abdominal snowman."
+  },
+  {
+    "id": "eba23816-cf42-4bf1-92b2-31b63db6ab3a",
+    "category": "dad",
+    "type": "single",
+    "tags": [
+      "eyebrows",
+      "wife"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I told my wife she was drawing her eyebrows too high. She seemed surprised."
+  },
+  {
+    "id": "439f1209-3d56-4f30-9d51-ab27155d41ca",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "glue",
+      "books"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm reading a book on the history of glue. I just can't seem to put it down."
+  },
+  {
+    "id": "e6d520f2-cb16-462c-9c61-d5bc98a0e7ad",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "cats",
+      "mountain"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a pile of cats?",
+    "delivery": "A meowtain."
+  },
+  {
+    "id": "e42d4f00-65ac-4ee6-93ed-f7dc0fc60e30",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "time",
+      "fruit"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Time flies like an arrow. Fruit flies like a banana."
+  },
+  {
+    "id": "a33feb0c-6c51-47bc-a494-8635ca6779ad",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "dinosaurs",
+      "cars"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a dinosaur that crashes their car?",
+    "delivery": "Tyrannosaurus Wrecks."
+  },
+  {
+    "id": "809f3223-4fd1-49f1-8a3b-6d0f8526e0d2",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "will",
+      "legal"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "A Will is a dead giveaway."
+  },
+  {
+    "id": "ae81e1ce-bf6c-430c-9224-d16ff5730062",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "ninjas",
+      "shoes"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What kind of shoes do ninjas wear?",
+    "delivery": "Sneakers."
+  },
+  {
+    "id": "3b795442-f8a9-4407-a19c-9cca2b3875b7",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "dancing",
+      "tap"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I used to be a tap dancer until I fell in the sink."
+  },
+  {
+    "id": "306237c9-789a-4db3-b067-2bf03af7c5e0",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "ireland",
+      "rocks"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a fake stone in Ireland?",
+    "delivery": "A sham rock."
+  },
+  {
+    "id": "98a1542a-2176-4de2-9583-0d519f6a998a",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "velcro",
+      "product"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Velcro — what a rip-off!"
+  },
+  {
+    "id": "aea42360-bd01-4d0b-9086-512710914368",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "picture",
+      "crime"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the picture go to jail?",
+    "delivery": "Because it was framed."
+  },
+  {
+    "id": "6692aa3c-6c2b-41f0-84e5-686bb08e83dc",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "pencil",
+      "writing"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I tried to write a joke about a broken pencil, but it was pointless."
+  },
+  {
+    "id": "93ececaf-2a70-496b-a63d-8dbf83548896",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "bees",
+      "decisions"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a bee that can't make up its mind?",
+    "delivery": "A maybe."
+  },
+  {
+    "id": "4ff7291d-05b6-4a97-9cf8-5a663e3d0a7e",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "puppets",
+      "sales"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Broken puppets for sale. No strings attached."
+  },
+  {
+    "id": "f4dad66f-1d0d-452d-956e-d759cc305204",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "boomerang",
+      "sticks"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a boomerang that won't come back?",
+    "delivery": "A stick."
+  },
+  {
+    "id": "94291c2d-6291-4e39-a179-23dc918d7df4",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "weather",
+      "books"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm writing a book about hurricanes and tornadoes. It's only a draft."
+  },
+  {
+    "id": "3cbb6529-5d0b-44b7-b106-3320a5c79a5f",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "alligator",
+      "detective"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call an alligator in a vest?",
+    "delivery": "An investigator."
+  },
+  {
+    "id": "874ea491-2f39-4a6c-bcac-4aa51f26cd36",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "soda",
+      "drink"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I got hit in the head with a can of soda. Luckily it was a soft drink."
+  },
+  {
+    "id": "d2ec5a05-c16c-4d92-91dc-ac1ea0d32566",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "cows",
+      "food"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a cow with no legs?",
+    "delivery": "Ground beef."
+  },
+  {
+    "id": "7dfc6c8c-de5b-4859-8537-8815e160fe62",
+    "category": "pun",
+    "type": "single",
+    "tags": [
+      "england",
+      "cities"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "England doesn't have a kidney bank, but it does have a Liverpool."
+  },
+  {
+    "id": "2bf459e7-18aa-4c60-b972-40e7ca8c9b28",
+    "category": "pun",
+    "type": "twopart",
+    "tags": [
+      "frogs",
+      "cars"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What happens when a frog's car breaks down?",
+    "delivery": "It gets toad away."
+  },
+  {
+    "id": "e2886872-5dd7-4947-a691-de0ff1ee6c6c",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "fish",
+      "dancing"
+    ],
+    "safe": false,
+    "contributed_by": null,
+    "joke": "I have a fish that can breakdance. Only for 20 seconds though, and only once."
+  },
+  {
+    "id": "a4f7dcf8-50d3-47f7-9b67-4853dc555401",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "cannibals",
+      "clowns"
+    ],
+    "safe": false,
+    "contributed_by": null,
+    "setup": "Why don't cannibals eat clowns?",
+    "delivery": "Because they taste funny."
+  },
+  {
+    "id": "c5903eb2-2074-46f4-b21d-7285c443c1da",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "unemployment",
+      "work"
+    ],
+    "safe": false,
+    "contributed_by": null,
+    "joke": "I have many jokes about unemployed people. Sadly none of them work."
+  },
+  {
+    "id": "469f5a71-7b45-465f-a688-26b30e882612",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "clothing",
+      "bicycle"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's the difference between a well-dressed man on a bicycle and a poorly dressed man on a unicycle?",
+    "delivery": "Attire."
+  },
+  {
+    "id": "5e741e4a-44c4-4f0b-bc5c-7f9f90aa9e63",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "technology",
+      "grandpa"
+    ],
+    "safe": false,
+    "contributed_by": null,
+    "joke": "My grandfather says I'm too reliant on technology. I called him a hypocrite and unplugged his life support."
+  },
+  {
+    "id": "e80afff1-5d5e-414c-af61-4ee0778abf6c",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "vegans",
+      "diet"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's the hardest part about being a vegan?",
+    "delivery": "Apparently, keeping it to yourself."
+  },
+  {
+    "id": "0dc10baf-257f-498a-a339-968021b51b74",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "psychiatrist",
+      "voices"
+    ],
+    "safe": false,
+    "contributed_by": null,
+    "joke": "I told my psychiatrist I was hearing voices. He told me I don't have a psychiatrist."
+  },
+  {
+    "id": "05d90096-a0a4-4eca-ac85-dde0843fdaf2",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "biology",
+      "cells"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did the cell say to his sister cell when she stepped on his toe?",
+    "delivery": "Mitosis."
+  },
+  {
+    "id": "1646c64e-f852-440d-8983-64f70855298e",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "library",
+      "paranoia"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I asked the librarian if the library had any books on paranoia. She whispered, 'They're right behind you.'"
+  },
+  {
+    "id": "d1d7b537-16f7-47c5-b69b-d0f6689f67eb",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "color",
+      "teeth"
+    ],
+    "safe": false,
+    "contributed_by": null,
+    "setup": "What's red and bad for your teeth?",
+    "delivery": "A brick."
+  },
+  {
+    "id": "93c122d9-d11e-4e99-8880-3e8451c23801",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "therapy",
+      "vengeance"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My therapist says I have a preoccupation with vengeance. We'll see about that."
+  },
+  {
+    "id": "dd856481-6658-4ee6-8503-73cf9d39c920",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "money",
+      "friends"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call it when every one of your friends makes too many jokes about being poor?",
+    "delivery": "Laughing stock."
+  },
+  {
+    "id": "5922b892-06a2-4267-8816-5c0044adc767",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "wife",
+      "mistakes"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I told my wife she should embrace her mistakes. She hugged me."
+  },
+  {
+    "id": "62ba95f6-1651-4cd8-ada8-9c8b9f34ba4f",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "sleep",
+      "running"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the man run around his bed?",
+    "delivery": "To catch up on his sleep."
+  },
+  {
+    "id": "d087de5f-42d5-4c88-bd56-2473d6816655",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "work",
+      "boss"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My boss told me to have a good day, so I went home."
+  },
+  {
+    "id": "a80e8627-f39d-4929-a787-23ce110b2532",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "skeletons",
+      "courage"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why don't skeletons fight each other?",
+    "delivery": "They don't have the guts."
+  },
+  {
+    "id": "4b6dae8f-db03-44e3-b234-691f6279cbc3",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "indecisive",
+      "thinking"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I used to think I was indecisive. But now I'm not so sure."
+  },
+  {
+    "id": "780dff8a-0334-4a89-bd6b-b667c7c8041f",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "dentist",
+      "photos"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do dentists call their X-rays?",
+    "delivery": "Tooth pics."
+  },
+  {
+    "id": "f21c194b-0b85-4d10-9bf3-c1a0c9b71052",
+    "category": "dark",
+    "type": "single",
+    "tags": [
+      "boomerang",
+      "fear"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I threw a boomerang a few years ago. I now live in constant fear."
+  },
+  {
+    "id": "eb3bb495-2444-44f5-aae3-53c15249a5d8",
+    "category": "dark",
+    "type": "twopart",
+    "tags": [
+      "names",
+      "cars"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What do you call a Mexican who has lost his car?",
+    "delivery": "Carlos."
+  },
+  {
+    "id": "7bc85922-0ce3-42d3-8583-a8acb07eca76",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "deadlines",
+      "procrastination"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I love deadlines. I like the whooshing sound they make as they fly by."
+  },
+  {
+    "id": "ced3ea17-2ad0-4ad8-b85b-ea8510aaf407",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "calendar",
+      "fired"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the employee get fired from the calendar factory?",
+    "delivery": "He took a few days off."
+  },
+  {
+    "id": "66d71267-c409-4fb4-9f00-da001f30b3dc",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "resume",
+      "hiring"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My resume is just a list of things I hope you never verify."
+  },
+  {
+    "id": "78346f9c-468a-4269-a505-3499a276159c",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "christmas",
+      "office"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "How is Christmas like a day at the office?",
+    "delivery": "You do all the work and the fat guy in the suit gets all the credit."
+  },
+  {
+    "id": "13e8c7fa-1917-4c1d-be25-965243e67d50",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "diet",
+      "browser"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The closest I've been to a diet is erasing food searches from my browser history."
+  },
+  {
+    "id": "8a7c2a27-6432-4801-9f9d-68a2c1b150be",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "powerpoint",
+      "presentations"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the PowerPoint presentation cross the road?",
+    "delivery": "To get to the other slide."
+  },
+  {
+    "id": "7be5b3f9-41ff-4bd8-a2b0-ded80dcbead5",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "office",
+      "punctuality"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I always arrive late to the office, but I make up for it by leaving early."
+  },
+  {
+    "id": "1a56ef27-81b2-4ea0-8485-48f081358bcf",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "stocks",
+      "money"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's the best way to make a small fortune in the stock market?",
+    "delivery": "Start with a large fortune."
+  },
+  {
+    "id": "24e9f5f0-baa1-45eb-aa4b-b4bc675b2e29",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "boss",
+      "intimidation"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My boss says I intimidate my coworkers, so I just stared at him until he took it back."
+  },
+  {
+    "id": "897c5a21-c64d-458a-98da-81b9b55e9157",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "rubber",
+      "flexibility"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why do employees at the rubber band factory love their jobs?",
+    "delivery": "Because everything is so flexible."
+  },
+  {
+    "id": "93f2a232-6046-4e1e-9dc1-7504ed63e0b2",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "monday",
+      "tuesday"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The only thing worse than a Monday is remembering it's only Tuesday."
+  },
+  {
+    "id": "ed0ff120-0c62-4cec-8210-9c7e90922a21",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "soda",
+      "depression"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the can crusher quit his job?",
+    "delivery": "Because it was soda pressing."
+  },
+  {
+    "id": "93f67543-1328-4907-8e08-df3f5fb54170",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "friday",
+      "wednesday"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "Nothing ruins a Friday more than realizing it's only Wednesday."
+  },
+  {
+    "id": "943ec048-9756-4f6e-a622-60e810a2c882",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "manager",
+      "shopping"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What's the difference between a manager and a shopping cart?",
+    "delivery": "A shopping cart has a mind of its own."
+  },
+  {
+    "id": "d996daad-4ff5-4bdc-ae44-c9b329d23557",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "superheroes",
+      "identity"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "I'm not saying I'm Wonder Woman, I'm just saying no one has ever seen me and Wonder Woman in the same room together."
+  },
+  {
+    "id": "15c1c754-1fb1-437a-90ab-3fe7ea977db2",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "accounting",
+      "calculator"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the accountant break up with the calculator?",
+    "delivery": "She felt he was just using her."
+  },
+  {
+    "id": "c356173b-90be-4075-baf2-c16b9ea5c994",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "keyboard",
+      "escape"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "My keyboard must be broken — I keep hitting 'Escape' but I'm still at work."
+  },
+  {
+    "id": "94043c2a-d4b2-4f0d-8b1d-4031a531eb0b",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "motivation",
+      "posters"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "What did the employee say to the motivational poster?",
+    "delivery": "Easy for you to say, you're hanging in there by a thumbtack."
+  },
+  {
+    "id": "1f33b60d-2372-4c3a-bed3-2f258e82f277",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "productivity",
+      "nothing"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "The trouble with doing nothing is that you never know when you're finished."
+  },
+  {
+    "id": "16cc7957-9b9b-40a7-ac42-b0249cccce65",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "spreadsheet",
+      "therapy"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the spreadsheet go to therapy?",
+    "delivery": "It had too many issues with its cells."
+  },
+  {
+    "id": "969bf149-a53c-4278-81f2-5610a63ffbb4",
+    "category": "workplace",
+    "type": "single",
+    "tags": [
+      "monday",
+      "gifts"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "joke": "If every day is a gift, I'd like a receipt for Monday."
+  },
+  {
+    "id": "abbe50ff-b7e2-401d-ae12-202a81923c30",
+    "category": "workplace",
+    "type": "twopart",
+    "tags": [
+      "meeting",
+      "management"
+    ],
+    "safe": true,
+    "contributed_by": null,
+    "setup": "Why did the office worker bring a ladder to the meeting?",
+    "delivery": "To reach the next level of management."
+  }
+]
