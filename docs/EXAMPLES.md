@@ -351,9 +351,10 @@ async fn main() -> Result<(), reqwest::Error> {
         .json()
         .await?;
 
-    match joke.joke {
-        Some(text) => println!("{text}"),
-        None => println!("{}\n{}", joke.setup.unwrap(), joke.delivery.unwrap()),
+    match (joke.joke, joke.setup, joke.delivery) {
+        (Some(text), _, _) => println!("{text}"),
+        (_, Some(setup), Some(delivery)) => println!("{setup}\n{delivery}"),
+        _ => eprintln!("Unexpected joke format"),
     }
     Ok(())
 }
