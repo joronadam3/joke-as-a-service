@@ -52,15 +52,7 @@ function validate() {
   const ids = new Set();
   const duplicateIds = [];
   const categoryCount = {};
-  const validCategories = [
-    "programming",
-    "security",
-    "general",
-    "dad",
-    "pun",
-    "dark",
-    "workplace",
-  ];
+  const validCategories = new Set(schema.properties.category.enum);
 
   jokes.forEach((joke, index) => {
     // Check for duplicate IDs
@@ -91,7 +83,7 @@ function validate() {
 
   // Check category coverage
   console.log("📁 Category breakdown:");
-  validCategories.forEach((cat) => {
+  for (const cat of validCategories) {
     const count = categoryCount[cat] || 0;
     const status = count >= 15 ? "✅" : "⚠️";
     console.log(`   ${status} ${cat}: ${count} jokes`);
@@ -100,15 +92,7 @@ function validate() {
         `   ⚠️  Category "${cat}" has fewer than 15 jokes (recommended minimum)`
       );
     }
-  });
-
-  // Check for unexpected categories
-  Object.keys(categoryCount).forEach((cat) => {
-    if (!validCategories.includes(cat)) {
-      console.error(`❌ Unknown category: "${cat}"`);
-      errors++;
-    }
-  });
+  }
 
   console.log("");
 
