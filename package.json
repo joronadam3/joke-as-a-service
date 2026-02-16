@@ -1,0 +1,32 @@
+{
+  "name": "joke-as-a-service",
+  "version": "1.0.0",
+  "description": "A free, community-driven REST API that serves random jokes",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node jokes/validate.js",
+    "validate:check": "node jokes/validate.js --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joronadam3/joke-as-a-service.git"
+  },
+  "keywords": [
+    "jokes",
+    "api",
+    "rest",
+    "humor",
+    "community",
+    "open-source"
+  ],
+  "author": "JaaS Contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joronadam3/joke-as-a-service/issues"
+  },
+  "homepage": "https://jaas.example.com",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  }
+}
